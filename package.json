@@ -1,6 +1,7 @@
 {
     "name": "turborepo-basic-shared",
     "version": "0.0.0",
+    "description": "Open-source social media platform powered by a TypeScript Turborepo monorepo — Next.js, Apollo GraphQL, Prisma ORM, MongoDB, and a modular S3-compatible storage engine",
     "private": true,
     "workspaces": [
         "apps/*",
