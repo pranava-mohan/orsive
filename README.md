@@ -41,6 +41,10 @@
   </a>
   </p>
 
+### About ✨
+
+Orsive is a fully open-source social media platform built for the modern web — fast, transparent, and community-driven. Powered by a cutting-edge TypeScript monorepo, it combines the best of Next.js, GraphQL, and Prisma to deliver a seamless experience from frontend to backend. Whether you're a developer looking to contribute, learn, or build something new, Orsive is your playground. No black-box algorithms, no walled gardens — just open code and open ideas.
+
 ### Apps and Packages🛠️
 
 -   `web`: a [Next.js](https://nextjs.org) app
